@@ -1,2 +1,9 @@
 # PruebaPrograIV-17-10
-Alexander Esquivel - Santiago Herrera
+
+Integrantes : 
+Alexander Esquivel 
+Santiago Herrera
+
+Seccion     : 
+242
+
