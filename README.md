@@ -1,7 +1,7 @@
 # PruebaPrograIV-17-10
 
 Integrantes : 
-Alexander Esquivel 
+Alexander Esquivel -
 Santiago Herrera
 
 Seccion     : 
